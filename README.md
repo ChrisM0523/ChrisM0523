@@ -1,7 +1,6 @@
 <h1>Hi, I'm Chris! 
 <h2>👨‍💻 General IT Projects:</h2>
 
-- <b>Active Directory Soon</b>
   - [Active Directory Soon](URLFORPROJECT)
 
 <h2>📄 Certifications </h2>
